@@ -1,0 +1,26 @@
+.hero{
+	background-color: yellow;
+	font-family: 'MuseoModerno', cursive;
+}
+h1{
+	text-align: center;
+	font-family: 'MuseoModerno', cursive;
+	color: red;
+	background-color: black;
+
+}
+p{
+	font-size: 20px;
+}
+body{
+	background-color: skyblue;
+}
+.goal{
+	background-color: violet;
+	font-size: 22px;
+}
+.team{
+	background-color: orange;
+	font-size: 22px;
+	
+}
