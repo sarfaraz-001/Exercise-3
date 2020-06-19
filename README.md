@@ -9,7 +9,7 @@
 
 
 
- <a href="(ABOUT).HTML"><h3><div class="hero"> Navigate to About</h3></div></a>
+ <a href="(ABOUT).HTML"><h3><div class="hero"> Navigate to About</h3></div>
 
 
 <body><p>
@@ -18,4 +18,4 @@ There are three kinds of web developer specialization: front-end developer, back
 </p>
 </body>
 <a href="contacts.html"><h4>for more details click here</h4>  </a>
-</html>
+
